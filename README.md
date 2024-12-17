@@ -1,4 +1,4 @@
-# Spring Boot Quiz App 
+# Quiz App 
 
 
 ## Table of Contents
